@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ROK Bot</string>
+    <string name="accessibility_description">Permette al bot di cliccare automaticamente in Rise of Kingdoms senza root</string>
+</resources>
